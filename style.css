@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #bc9e80;
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+  padding: 0 50px;
+}
+
+h2 {
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 2rem;
+  line-height: 2rem;
+  padding: 2rem;
+  color: #4f3a26;
+}
+
+.wrapper {
+  padding: 0 8rem;
+  font-size: 1.3rem;
+  line-height: 2rem;
+}
+
+.container {
+  height: 500px;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 8rem;
+}
